@@ -1,4 +1,4 @@
-<h1 align='center'>Hi World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! My name is Hilda</h1>
+<h1 align='center'>Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! My name is Hilda</h1>
                                                       
 <h3 align='center'> an aspiring software developer</h3>
 
