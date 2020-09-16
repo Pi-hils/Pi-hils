@@ -1,8 +1,8 @@
- ## Hi World 👋! My name is Hilda
+ ## Hi World <img src="https://raw.githubusercontent.com/Pi-hils/Pi-hils/master/wave.gif" width="30px">! My name is Hilda
                                                       
-#### an aspiring software developer
+## an aspiring software developer
 
-- 🔭 I’m  completing a 12 week intensive bootcamp at [Makers Academy](https://makers.tech/)
+- 🔭 I’m completing a 12 week intensive Software Enginneering course with [Makers Academy](https://makers.tech/)
 - 👩🏾‍💻  You can find some of my work and learning journey [here](https://github.com/Pi-hils/Learning_Journey)
 - 👯 I’m always looking to collaborate on projects with other tech enthusiast 
 - 💬 Ask me about my time at Makers or my experience in Guatemala
