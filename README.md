@@ -9,7 +9,7 @@
 - 💬 Ask me about my time at Makers or my experience in Guatemala
 - 🌍 Fun fact: I traveled to Guatemala and help build a school and climbed the Tikal pyramid
 <br>
-You can contact me via my email: hilda.amp@hotmail.com and [LinkedIn](https://www.linkedin.com/in/hilda-amponsah-0a0129124/)
+You can contact me via email: hilda.amp@hotmail.com and [LinkedIn](https://www.linkedin.com/in/hilda-amponsah-0a0129124/)
 <br>
 
 [![Hilda's github stats](https://github-readme-stats.vercel.app/api?username=Pi-hils&theme=highcontrast&show_icons=true)](https://github.com/Pi-hils/github-readme-stats)
