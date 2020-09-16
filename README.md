@@ -19,4 +19,4 @@ You can contact me via email:hilda.amp@hotmail.com and [LinkedIn](https://www.li
 ## Top languages used
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pi-hils)](https://github.com/Pi-hils/github-readme-stats)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Pi-hils.Pi-hils)
+![](https://tour-badge.laobi.icu/badge?page_id=Pi-hils.Pi-hils)
