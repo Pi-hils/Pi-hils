@@ -9,9 +9,9 @@
 - 🌍 Fun fact: I traveled to Guatemala and helped build a school and climbed the Tikal pyramid
 
 <p align='center'>
-You can contact me via email: hilda.amp@hotmail.com and [LinkedIn](https://www.linkedin.com/in/hilda-amponsah-0a0129124/)
+You can contact me via email:hilda.amp@hotmail.com and [LinkedIn](https://www.linkedin.com/in/hilda-amponsah-0a0129124/)
 </p>
-<br>
+
 
 [![Hilda's github stats](https://github-readme-stats.vercel.app/api?username=Pi-hils&theme=highcontrast&show_icons=true)](https://github.com/Pi-hils/github-readme-stats)
 </p>
