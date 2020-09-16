@@ -1,9 +1,6 @@
-                                                      ## Hi World 👋! My name is Hilda
+ ## Hi World 👋! My name is Hilda
                                                       
-                                                      ##### an aspiring software developer
-
-<!--
-**Pi-hils/Pi-hils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### an aspiring software developer
 
 - 🔭 I’m  completing a 12 week intensive bootcamp at [Makers Academy](https://makers.tech/)
 - 👩🏾‍💻 I’m learning to become a full stack developer
