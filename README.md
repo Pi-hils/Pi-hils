@@ -1,6 +1,6 @@
 <h2 align='center'>Hi World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! My name is Hilda</h2>
                                                       
-## an aspiring software developer
+<h3 align='center'> an aspiring software developer</h3>
 
 - 🔭 I’m completing a 12 week intensive Software Enginneering course with [Makers Academy](https://makers.tech/)
 - 👩🏾‍💻  You can find some of my work and learning journey [here](https://github.com/Pi-hils/Learning_Journey)
