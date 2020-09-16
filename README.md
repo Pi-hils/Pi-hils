@@ -1,6 +1,6 @@
  ## Hi World 👋! My name is Hilda
                                                       
-##### an aspiring software developer
+#### an aspiring software developer
 
 - 🔭 I’m  completing a 12 week intensive bootcamp at [Makers Academy](https://makers.tech/)
 - 👩🏾‍💻 I’m learning to become a full stack developer
