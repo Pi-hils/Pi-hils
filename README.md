@@ -3,8 +3,7 @@
 #### an aspiring software developer
 
 - 🔭 I’m  completing a 12 week intensive bootcamp at [Makers Academy](https://makers.tech/)
-- 👩🏾‍💻 I’m learning to become a full stack developer
-- 💻 You can find some of my work and [learning journey here](https://github.com/Pi-hils/Learning_Journey)
+- 👩🏾‍💻  You can find some of my work and learning journey [here](https://github.com/Pi-hils/Learning_Journey)
 - 👯 I’m always looking to collaborate on projects with other tech enthusiast 
 - 💬 Ask me about my time at Makers or my experience in Guatemala
 - 🌍 Fun fact: I traveled to Guatemala and helped build a school and climbed the Tikal pyramid
