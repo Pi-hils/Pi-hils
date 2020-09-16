@@ -9,6 +9,17 @@
 - 🌍 Fun fact: I traveled to Guatemala and helped build a school and climbed the Tikal pyramid
 
 You can contact me via email: hilda.amp@hotmail.com and [LinkedIn](https://www.linkedin.com/in/hilda-amponsah-0a0129124/)
+You can find me on [![hotmail][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+
+[2]: https://www.linkedin.com/in/hilda-amponsah-0a0129124/
 <br>
 
 [![Hilda's github stats](https://github-readme-stats.vercel.app/api?username=Pi-hils&theme=highcontrast&show_icons=true)](https://github.com/Pi-hils/github-readme-stats)
