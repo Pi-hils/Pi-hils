@@ -1,4 +1,4 @@
-<h2 align='center'>Hi World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! My name is Hilda</h2>
+<h1 align='center'>Hi World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! My name is Hilda</h1>
                                                       
 <h3 align='center'> an aspiring software developer</h3>
 
@@ -17,3 +17,5 @@ You can contact me via email: hilda.amp@hotmail.com and [LinkedIn](https://www.l
 
 ## Top languages used
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pi-hils)](https://github.com/Pi-hils/github-readme-stats)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=Pi-hils.Pi-hils)
