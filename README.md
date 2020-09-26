@@ -9,7 +9,7 @@
 - 🌍 Fun fact: I traveled to Guatemala and helped build a school and climbed the Tikal pyramid
 
 
-You can contact me via 
+You can contact me via <br>
 email:hilda.amp@hotmail.com and [<img align="left" alt="Hilda | LinkedIn" width="22px" src="https://www.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" target='_blank'/>](https://www.linkedin.com/in/hilda-amponsah-0a0129124/)
 
 
