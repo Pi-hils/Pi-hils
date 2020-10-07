@@ -2,7 +2,8 @@
                                                       
 <h3 align='center'> an aspiring software developer</h3>
 
-- 🔭 I’m completing a 12 week intensive Software Enginneering course with [Makers Academy](https://makers.tech/)
+- 🔭 I have completed a 16 week intensive Software Enginneering course with [Makers Academy](https://makers.tech/)
+- 💻 I'm currently looking for a job as a full stack developer - you can view my CV [here](https://github.com/Pi-hils/CV)
 - 👩🏾‍💻  You can find some of my work and learning journey [here](https://github.com/Pi-hils/Learning_Journey)
 - 👯 I’m always looking to collaborate on projects with other tech enthusiast 
 - 💬 Ask me about my time at Makers or my experience in Guatemala
@@ -11,8 +12,6 @@
 
 You can contact me via <br>and email: hilda.amp@hotmail.com 
 [<img align="left" alt="Hilda | LinkedIn" width="22px" src="https://www.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" target='_blank'>](https://www.linkedin.com/in/hilda-amponsah-0a0129124/)
-
-
 
 
 
