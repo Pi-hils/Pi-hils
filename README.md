@@ -7,7 +7,7 @@
 - 👩🏾‍💻  You can find some of my work and learning journey [here](https://github.com/Pi-hils/Learning_Journey)
 - 👯 I’m always looking to collaborate on projects with other tech enthusiast 
 - 💬 Ask me about my time at Makers or my experience in Guatemala
-- 🌍 Fun fact: I traveled to Guatemala and helped build a school and climbed the Tikal pyramid
+- 🌍 Fun fact: I traveled to Guatemala to build a school and climbed the Tikal pyramid
 
 
 You can contact me via <br>and email: hilda.amp@hotmail.com 
