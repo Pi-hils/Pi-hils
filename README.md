@@ -3,7 +3,7 @@
 <h3 align='center'> an aspiring software developer</h3>
 
 - 🔭 I have completed a 16 week intensive Software Enginneering course with [Makers Academy](https://makers.tech/)
-- 💻 I'm currently looking for a job as a full stack developer - you can view my CV [here](https://github.com/Pi-hils/CV)
+- 💻 A full stack developer - you can view my CV [here](https://github.com/Pi-hils/CV)
 - 👩🏾‍💻  You can find some of my work and learning journey [here](https://github.com/Pi-hils/Learning_Journey)
 - 👯 I’m always looking to collaborate on projects with other tech enthusiast 
 - 💬 Ask me about my time at Makers or my experience in Guatemala
